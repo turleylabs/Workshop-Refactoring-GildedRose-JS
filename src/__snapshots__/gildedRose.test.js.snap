@@ -1,0 +1,790 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`approve updateQuality 1`] = `
+Array [
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 47,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 48,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 47,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 48,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 48,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 49,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 48,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 49,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 48,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 49,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 48,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 49,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 0,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 48,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "",
+      "quality": 49,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 2,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 3,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 2,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 3,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 1,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 2,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 1,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 2,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 1,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 2,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 1,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 2,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 1,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 2,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Aged Brie",
+      "quality": 50,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 0,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 0,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 0,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 0,
+      "sellIn": -2,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 0,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 0,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 0,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 0,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 3,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 4,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 3,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 4,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 4,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 2,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 3,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 2,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 3,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 9,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 1,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 2,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "quality": 50,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 0,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 1,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 49,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 50,
+      "sellIn": -1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 0,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 1,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 49,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 50,
+      "sellIn": 0,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 0,
+      "sellIn": 1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 1,
+      "sellIn": 1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 49,
+      "sellIn": 1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 50,
+      "sellIn": 1,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 0,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 1,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 49,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 50,
+      "sellIn": 5,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 0,
+      "sellIn": 6,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 1,
+      "sellIn": 6,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 49,
+      "sellIn": 6,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 50,
+      "sellIn": 6,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 0,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 1,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 49,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 50,
+      "sellIn": 10,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 0,
+      "sellIn": 11,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 1,
+      "sellIn": 11,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 49,
+      "sellIn": 11,
+    },
+  ],
+  Array [
+    Item {
+      "name": "Sulfuras, Hand of Ragnaros",
+      "quality": 50,
+      "sellIn": 11,
+    },
+  ],
+]
+`;

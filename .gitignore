@@ -1,0 +1,4 @@
+.vscode
+coverage
+# stryker temp files
+.stryker-tmp

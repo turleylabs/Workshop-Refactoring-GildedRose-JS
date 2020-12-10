@@ -1,0 +1,17 @@
+{
+  "name": "gilded-rose-refactoring",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "(jest --coverage 2>&1 | tee -a test_results.log) && date >> test_results.log && echo \"\" >> test_results.log"
+  },
+  "devDependencies": {
+    "cartesian-product": "^2.1.2"
+  }
+}
