@@ -20,6 +20,6 @@ test('approve updateQuality', () => {
 });
 
 function runCombinationSnapshot(params, fn) {
-    return product(params).map(combo => fn(...combo));
+    return product(params).map(combo => [combo, fn(...combo)]);
 }
 
