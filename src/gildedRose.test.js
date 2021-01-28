@@ -15,7 +15,11 @@ test('approve updateQuality', () => {
     const params = [names, sellIns, qualities];
 
     const result = runCombinationSnapshot(params, doUpdateQuality);
-
+    expect.addSnapshotSerializer({
+        test:(val) => val.hasOwnProperty('name') && val.hasOwnProperty('sellIn') && val.hasOwnProperty('quality'),
+        print:(val) => 
+        `Item{ Name: ${val.name}, SellIn: ${val.sellIn}, Quality: ${val.quality} }`
+    });
     expect(result).toMatchSnapshot();
 });
 
